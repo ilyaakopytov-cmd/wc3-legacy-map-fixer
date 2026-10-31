@@ -1,0 +1,23 @@
+# Local maps and results
+*.w3x
+*.w3m
+corrected maps/
+reports/
+history.jsonl
+*.report.txt
+.*.stage-*
+
+# Downloaded third-party tools and transient files
+tools/CASCConsole/
+*.pdb
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local credentials / configuration
+.env
+.env.*
+*.token
+*.key
